@@ -12,7 +12,7 @@ namespace Kreisannäherung
 {
     public partial class Form1 : Form
     {
-        // Comment
+        // Comment2
         float ts = 150; // tilesize
         List<Vector> verteces = new List<Vector> { new Vector(0, 0), new Vector(1, 0), new Vector(1, 1), new Vector(0, 1) };
         public Form1()
