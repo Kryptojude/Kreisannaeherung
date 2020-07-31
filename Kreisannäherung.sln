@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kreisannäherung", "Kreisannäherung\Kreisannäherung.csproj", "{6206E6F7-ADA8-4825-9E58-235A5686C219}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6206E6F7-ADA8-4825-9E58-235A5686C219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6206E6F7-ADA8-4825-9E58-235A5686C219}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6206E6F7-ADA8-4825-9E58-235A5686C219}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6206E6F7-ADA8-4825-9E58-235A5686C219}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {962270EA-3004-4DA4-9A14-CA74D9CB02B2}
+	EndGlobalSection
+EndGlobal
