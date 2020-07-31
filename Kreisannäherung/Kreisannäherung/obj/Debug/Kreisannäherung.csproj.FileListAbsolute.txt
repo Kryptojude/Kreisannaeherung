@@ -1,9 +1,0 @@
-C:\Users\CBecker\Desktop\Kreisannäherung\Kreisannäherung\bin\Debug\Kreisannäherung.exe.config
-C:\Users\CBecker\Desktop\Kreisannäherung\Kreisannäherung\bin\Debug\Kreisannäherung.exe
-C:\Users\CBecker\Desktop\Kreisannäherung\Kreisannäherung\bin\Debug\Kreisannäherung.pdb
-C:\Users\CBecker\Desktop\Kreisannäherung\Kreisannäherung\obj\Debug\Kreisannäherung.csprojAssemblyReference.cache
-C:\Users\CBecker\Desktop\Kreisannäherung\Kreisannäherung\obj\Debug\Kreisannäherung.Properties.Resources.resources
-C:\Users\CBecker\Desktop\Kreisannäherung\Kreisannäherung\obj\Debug\Kreisannäherung.csproj.GenerateResource.cache
-C:\Users\CBecker\Desktop\Kreisannäherung\Kreisannäherung\obj\Debug\Kreisannäherung.csproj.CoreCompileInputs.cache
-C:\Users\CBecker\Desktop\Kreisannäherung\Kreisannäherung\obj\Debug\Kreisannäherung.exe
-C:\Users\CBecker\Desktop\Kreisannäherung\Kreisannäherung\obj\Debug\Kreisannäherung.pdb
